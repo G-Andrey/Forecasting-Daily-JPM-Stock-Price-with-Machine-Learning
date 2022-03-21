@@ -1,1 +1,1 @@
-# Forecasting-Daily-JPM-Stock-Price-with-Machine-Learning
+# Forecasting Daily $JPM Stock Price
