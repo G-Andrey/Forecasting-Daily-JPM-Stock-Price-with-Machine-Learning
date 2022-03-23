@@ -24,9 +24,18 @@ The ultimate goal of this project was to take a real-world problem and then atte
   + Stock price w/ volume
   + Total return by year
   + Stock price w/ momentum trend indicator
+  ![momentum](https://github.com/G-Andrey/Forecasting-Daily-JPM-Stock-Price-with-Machine-Learning/blob/main/Figures/Stock%20Price%20and%20Momentum%20Indicator.png)
   + Stock price w/ MACD indicator
+  ![macd](https://github.com/G-Andrey/Forecasting-Daily-JPM-Stock-Price-with-Machine-Learning/blob/main/Figures/Stock%20Price%20and%20MACD%20Indicator.png)
   + Stock price w/ stochastic oscillator
+  ![stochastic](https://github.com/G-Andrey/Forecasting-Daily-JPM-Stock-Price-with-Machine-Learning/blob/main/Figures/Stock%20Price%20and%20Stochastic%20Oscillator.png)
 - Trained 3 models:
   + Logistic regression with hyperparameter optimization using gridsearch
   + Random forest classifier with hyperparameter optimization using gridsearch
   + Dense neural network using *tensorflow*
+- Assessed performance of all 3 models:
+  + Accuracy
+  + ROC curves and AUC scores
+  ![roc](https://github.com/G-Andrey/Forecasting-Daily-JPM-Stock-Price-with-Machine-Learning/blob/main/Figures/ROC%20Curves%20for%20All%203%20Models.png)
+  + Confusion matrices
+  ![confusion](https://github.com/G-Andrey/Forecasting-Daily-JPM-Stock-Price-with-Machine-Learning/blob/main/Figures/Confusion%20Matricies.png)
