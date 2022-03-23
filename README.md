@@ -33,9 +33,15 @@ The ultimate goal of this project was to take a real-world problem and then atte
   + Logistic regression with hyperparameter optimization using gridsearch
   + Random forest classifier with hyperparameter optimization using gridsearch
   + Dense neural network using *tensorflow*
-- Assessed performance of all 3 models:
+- Measured and visualized performance of all 3 models:
   + Accuracy
   + ROC curves and AUC scores
   ![roc](https://github.com/G-Andrey/Forecasting-Daily-JPM-Stock-Price-with-Machine-Learning/blob/main/Figures/ROC%20Curves%20for%20All%203%20Models.png)
   + Confusion matrices
   ![confusion](https://github.com/G-Andrey/Forecasting-Daily-JPM-Stock-Price-with-Machine-Learning/blob/main/Figures/Confusion%20Matricies.png)
+- Assessed and visualized interpretability of all 3 models:
+  + Logistic regression model's coefficients
+  + Random forest model's feature importances
+  + Shapley plot for best performing model
+  
+  ![shapley](https://github.com/G-Andrey/Forecasting-Daily-JPM-Stock-Price-with-Machine-Learning/blob/main/Figures/Shapley%20Plot%20of%20Best%20Performing%20Model.png)
