@@ -3,7 +3,7 @@
 :star2: [Final Hosted Notebook](https://g-andrey.github.io/Forecasting-Daily-JPM-Stock-Price-with-Machine-Learning/) :star2:
 
 ## Goal :dart:
-The ultimate goal of this project was to take a real-world problem and then attempt to solve it utilizing proper machine learning principles. The specific problem tackled is that of predicting future stock price movement using techincal analysis, framed as a forecasting machine learning problem. *Logistic regression*, *random forest classifier*, and *neural network* models were trained and tested on 7 years of historical $JPM data from 2012 - 2019.
+The ultimate goal of this project was to take a real-world problem and then attempt to solve it utilizing proper machine learning principles. The specific problem tackled is that of predicting future stock price movement using technical analysis, framed as a forecasting machine learning problem. *Logistic regression*, *random forest classifier*, and *neural network* models were trained and tested on 7 years of historical $JPM data from 2012 - 2019.
 
 ## Tasks Performed 
 
@@ -19,7 +19,7 @@ The ultimate goal of this project was to take a real-world problem and then atte
   + Removed missing/broken values
   + Standardized input features
   + Constructed training and testing splits
-- Perfomed data exploration and constructed visualizations with *matplotlib*:
+- Performed data exploration and constructed visualizations with *matplotlib*:
   + Stock price w/ MA and EMA 
   + Stock price w/ volume
   + Total return by year
