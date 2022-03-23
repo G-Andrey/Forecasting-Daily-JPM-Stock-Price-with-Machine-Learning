@@ -20,4 +20,13 @@ The ultimate goal of this project was to take a real-world problem and then atte
   + Standardized input features
   + Constructed training and testing splits
 - Perfomed data exploration and constructed visualizations with *matplotlib*:
-  + 
+  + Stock price w/ MA and EMA 
+  + Stock price w/ volume
+  + Total return by year
+  + Stock price w/ momentum trend indicator
+  + Stock price w/ MACD indicator
+  + Stock price w/ stochastic oscillator
+- Trained 3 models:
+  + Logistic regression with hyperparameter optimization using gridsearch
+  + Random forest classifier with hyperparameter optimization using gridsearch
+  + Dense neural network using *tensorflow*
